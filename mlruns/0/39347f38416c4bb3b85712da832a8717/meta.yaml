@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onyxia/Projet_NLP_3A/mlruns/0/39347f38416c4bb3b85712da832a8717/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39347f38416c4bb3b85712da832a8717
+run_name: ./results
+run_uuid: 39347f38416c4bb3b85712da832a8717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712568086818
+status: 1
+tags: []
+user_id: onyxia
