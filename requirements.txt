@@ -9,4 +9,4 @@ datasets
 pyarrow
 evaluate
 seqeval
-dotenv
+python-dotenv
