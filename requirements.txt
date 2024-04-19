@@ -10,3 +10,4 @@ pyarrow
 evaluate
 seqeval
 python-dotenv
+ipywidgets
