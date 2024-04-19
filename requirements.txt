@@ -1,4 +1,5 @@
 wordcloud
+pyyaml
 transformers
 torch
 pandas
