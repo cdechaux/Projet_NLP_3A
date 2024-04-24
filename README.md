@@ -3,7 +3,7 @@ _ENSAE année 2023-2024 :  Projet de Machine Learning for Natural Language Proce
 
 _Sujet 3 : Typage des informations_
 
-<img src="https://github.com/cdechaux/Projet_NLP_3A/blob/main/img/nuage_mots.png?raw=true" width="200" height="250" alt="nuage_motsts">
+<img src="https://github.com/cdechaux/Projet_NLP_3A/blob/main/img/nuage_mots.png?raw=true" width="250" height="250" alt="nuage_motsts">
 
 ## Organisation du repository
 
